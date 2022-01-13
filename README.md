@@ -3,4 +3,4 @@ Different ways of performing constrast adjustments in grayscale images. Implemen
 Performs histogram equalization, adaptive histogram equalization and contrast limited adaptive histogram equalization (CLAHE) on a given image, and display the results.
 
 # Run
-      $ pyton <imagename>
+      $ pyton contrast_adjustment <imagename>
